@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EECS1022 W18 Lab4: Bank Application</string>
+    <string-array name="service">
+        <item>deposit</item>
+        <item>withdraw</item>
+        <item>transfer</item>
+    </string-array>
+    <string-array name="client">
+        <item></item>
+        <item>client1</item>
+        <item>client2</item>
+        <item>client3</item>
+    </string-array>
+</resources>
